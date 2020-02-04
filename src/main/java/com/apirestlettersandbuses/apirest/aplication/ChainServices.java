@@ -1,5 +1,5 @@
 package com.apirestlettersandbuses.apirest.aplication;
 
-public class StringService {
+public class ChainServices {
 
 }

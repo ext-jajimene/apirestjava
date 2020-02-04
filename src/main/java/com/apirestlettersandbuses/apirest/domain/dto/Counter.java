@@ -1,6 +1,5 @@
 package com.apirestlettersandbuses.apirest.domain.dto;
 
-
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -10,9 +9,9 @@ import lombok.Setter;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
-public class ChainText {
+public class Counter {
 
-    private String chain;
-    private  Counter counter;
+    private String letter;
+    private Long numberOfLetters;
 
 }
